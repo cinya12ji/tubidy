@@ -1,4 +1,4 @@
 User-agent: *
 Allow: 
 
-Sitemap: https://tubidy-download.herokuapp.com/host-https-gw-alias.just-eat.com/sitemaps.xml
+Sitemap: https://tubidy-download.herokuapp.com/host-https-gw-alias.just-eat.com/Z2FudGlodTE.xml
